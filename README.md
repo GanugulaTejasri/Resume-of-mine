@@ -1,4 +1,4 @@
-1. Project Title: My pojrct title was resume of B.Tech student.
+1. Project Title: My poject title was resume of B.Tech student.
 
 2. Description: This project showcases my resume created using HTML and CSS.
 
